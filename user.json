@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "631b6274-bfca-4280-8c21-857bd86be3ec",
+      "name": "Manohara",
+      "email": "hcnm9845@gmail.com",
+      "password": "Manohara",
+      "dob": "2002-12-25",
+      "age": 22
+    },
+    {
+      "id": "19f5a1e0-c087-4907-91ec-0bf8b36e0e4a",
+      "name": "Jeevan",
+      "email": "jiva9845@gmail.com",
+      "password": "jiva9845",
+      "dob": "2000-11-22",
+      "age": 24
+    },
+    {
+      "id": "e47dbfe1-fed5-41d8-8663-8ddb1e0d88c7",
+      "name": "manu",
+      "email": "manu123@m.com",
+      "password": "123",
+      "dob": "2000-11-25",
+      "age": 24
+    }
+  ]
+}
